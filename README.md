@@ -1,4 +1,4 @@
-# Node.js Chess Game with Socket.IO
+# Node.js Rooks Move Game with Socket.IO
 
 This is a simple chess game built using Node.js and Socket.IO for real-time communication between players. Players can join the game, move pieces on the board, and a timer is implemented to enforce time limits for each player's turn.
 
